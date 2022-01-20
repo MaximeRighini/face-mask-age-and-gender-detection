@@ -13,3 +13,4 @@ The age and gender dataset can be downloaded [here](https://www.kaggle.com/nipun
 
 ## Results
  
+<img src="real_time_testing.gif"/>
